@@ -48,3 +48,4 @@ About the Project
 WeatherColorPicker bridges the gap between weather data and visual design, offering a novel way to perceive and interact with weather information through color aesthetics. It aims to inspire creativity and enhance user engagement by dynamically adapting UI elements to real-time weather conditions.
 .
 .
+.
